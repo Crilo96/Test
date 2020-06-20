@@ -60,7 +60,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
-							<mainClass>io.github.Crilo96.PARKING_Travis.SimpleCalculator</mainClass>
+							<mainClass>io.github.Crilo96.PARKING_Travis.Parcheggio</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
